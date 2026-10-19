@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="414" viewBox="0 0 1200 414" role="img" aria-labelledby="title">
+<title id="title">Moataz Ahmed — Software Engineer and MEAN Stack Developer, Giza, Egypt</title>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1728"/><stop offset="1" stop-color="#080d18"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#43e8d8"/><stop offset="1" stop-color="#6994ff"/></linearGradient>
+ <radialGradient id="aura"><stop stop-color="#296fa5" stop-opacity=".23"/><stop offset="1" stop-color="#296fa5" stop-opacity="0"/></radialGradient>
+</defs>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect width="1200" height="414" rx="22" fill="url(#bg)"/>
+<g stroke="#8db5d8" stroke-opacity=".045"><path d="M0 0V414"/><path d="M40 0V414"/><path d="M80 0V414"/><path d="M120 0V414"/><path d="M160 0V414"/><path d="M200 0V414"/><path d="M240 0V414"/><path d="M280 0V414"/><path d="M320 0V414"/><path d="M360 0V414"/><path d="M400 0V414"/><path d="M440 0V414"/><path d="M480 0V414"/><path d="M520 0V414"/><path d="M560 0V414"/><path d="M600 0V414"/><path d="M640 0V414"/><path d="M680 0V414"/><path d="M720 0V414"/><path d="M760 0V414"/><path d="M800 0V414"/><path d="M840 0V414"/><path d="M880 0V414"/><path d="M920 0V414"/><path d="M960 0V414"/><path d="M1000 0V414"/><path d="M1040 0V414"/><path d="M1080 0V414"/><path d="M1120 0V414"/><path d="M1160 0V414"/><path d="M0 0H1200"/><path d="M0 40H1200"/><path d="M0 80H1200"/><path d="M0 120H1200"/><path d="M0 160H1200"/><path d="M0 200H1200"/><path d="M0 240H1200"/><path d="M0 280H1200"/><path d="M0 320H1200"/><path d="M0 360H1200"/><path d="M0 400H1200"/></g>
+<ellipse cx="1000" cy="180" rx="340" ry="285" fill="url(#aura)"/>
+<path d="M34 0H1166" stroke="url(#accent)" stroke-width="3"/>
+<rect x="48" y="36" width="41" height="38" rx="10" fill="#122a38" stroke="#244451"/>
+<text x="68.5" y="61" text-anchor="middle" fill="#65e4db" font-size="18" font-weight="700">M.</text>
+<text x="104" y="60" fill="#b0bed2" font-size="12" letter-spacing="2">AMOTAZ668-CREATE / GITHUB</text>
+<text x="48" y="151" fill="#f2f7ff" font-size="59" font-weight="700" letter-spacing="-2">Moataz Ahmed<tspan fill="#53e5d8">.</tspan></text>
+<text x="51" y="190" fill="#69e2dc" font-size="16" letter-spacing="1.2">SOFTWARE ENGINEER · MEAN STACK DEVELOPER</text>
+<text x="49" y="247" fill="#cbd5e5" font-size="25">Turning ideas into working software.</text>
+<text x="50" y="279" fill="#8699b3" font-size="16">Angular interfaces. Node.js APIs. MongoDB data.</text>
+<rect x="49" y="323" width="208" height="35" rx="17.5" fill="#122432" stroke="#27414e"/>
+<circle cx="67" cy="340.5" r="4" fill="#4bdbc1"/>
+<text x="80" y="345" fill="#b8ded8" font-size="12">OPEN TO OPPORTUNITIES</text>
+<text x="279" y="345" fill="#8094b0" font-size="13">Giza, Egypt</text>
+<g transform="translate(780 105)">
+ <rect width="365" height="230" rx="16" fill="#09111f" stroke="#26394f"/>
+ <path d="M0 43H365" stroke="#26394f"/>
+ <circle cx="20" cy="22" r="4" fill="#ef8390"/><circle cx="36" cy="22" r="4" fill="#efc477"/><circle cx="52" cy="22" r="4" fill="#65d6bd"/>
+ <text x="82" y="26" fill="#7389a4" font-size="11" font-family="monospace">developer.ts</text>
+ <g font-family="monospace" font-size="13">
+  <text x="22" y="80" fill="#9eacff">const <tspan fill="#d7e3f2">moataz = &#123;</tspan></text>
+  <text x="37" y="112" fill="#8ca7c9">  focus: <tspan fill="#6ce2c7">'Web development'</tspan>,</text>
+  <text x="37" y="144" fill="#8ca7c9">  stack: <tspan fill="#e7bf83">'MEAN'</tspan>,</text>
+  <text x="37" y="176" fill="#8ca7c9">  mindset: <tspan fill="#6ce2c7">'Keep building'</tspan></text>
+  <text x="22" y="208" fill="#d7e3f2">&#125;;</text>
+ </g>
+</g>
+<path d="M797 357H1015L1039 381H1143" fill="none" stroke="#244f69" stroke-width="1.5"/>
+<circle cx="1143" cy="381" r="3" fill="#56ddcf"><animate attributeName="opacity" values="1;.25;1" dur="3s" repeatCount="indefinite"/></circle>
+</g></svg>
