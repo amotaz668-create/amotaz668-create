@@ -1,17 +1,16 @@
 <h1 align="center">Hi there, I'm Moataz Ahmed</h1>
 
 <h3 align="center">
-Software Engineer | MEAN Stack Developer | Codeforces Expert
+Software Engineer | MEAN Stack Developer
 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Education-Computer%20Science-007EC6?style=for-the-badge" alt="Computer Science" />
-  <img src="https://img.shields.io/badge/Codeforces-Expert%20%7C%20Peak%201711-0000FF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Expert — Peak Rating 1711" />
   <img src="https://img.shields.io/badge/Location-Giza%2C%20Egypt-F59E0B?style=for-the-badge" alt="Giza, Egypt" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1800&color=38BDF8&center=true&vCenter=true&width=750&height=90&lines=Codeforces+Expert+%7C+Peak+Rating+1711;Problem+Solving+with+C%2B%2B;Backend+Development+with+Node.js;Full-Stack+Applications+with+Angular" alt="Codeforces Expert, C++ problem solving, Node.js backend development, and Angular applications" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1800&color=38BDF8&center=true&vCenter=true&width=750&height=90&lines=Backend+Development+with+Node.js;Full-Stack+Applications+with+Angular;REST+APIs+%7C+Authentication+%7C+MongoDB;C%2B%2B+Problem+Solving+%7C+Codeforces+Expert" alt="Backend Development, Full-Stack Applications, REST APIs, and C++ Problem Solving" />
 </p>
 
 <p align="center">
@@ -30,11 +29,11 @@ Software Engineer | MEAN Stack Developer | Codeforces Expert
 
 ## About Me
 
-- **Problem Solving & Competitive Programming:** Achieved **Expert** rank on **Codeforces**, with a peak rating of **1711**. Experienced in solving algorithmic problems using **C++**, applying data structures, algorithms, and complexity analysis to develop efficient solutions.
 - **Computer Science:** University student focused on software engineering, backend development, and full-stack web applications.
 - **Backend Development:** Building REST APIs with **Node.js, Express.js, MongoDB, and Mongoose**, using structured routes, controllers, models, and middleware.
 - **Authentication & Authorization:** Working with **JWT authentication, password hashing, protected routes, and role-based permissions**.
 - **Frontend Development:** Developing application interfaces with **Angular and TypeScript**, alongside **HTML, CSS, and JavaScript**.
+- **Problem Solving:** Experienced in C++ and algorithmic problem solving; reached Expert on [Codeforces](https://codeforces.com/profile/not_MO3TAZ) with a peak rating of 1711.
 - **Project Experience:** Working on scholarship application workflows, event management systems, and course management APIs.
 - **Career Interests:** Open to internships and junior software engineering opportunities.
 
@@ -49,26 +48,13 @@ Software Engineer | MEAN Stack Developer | Codeforces Expert
 | Area | Technologies & Concepts |
 | :--- | :--- |
 | **Languages** | C++, JavaScript, TypeScript |
-| **Problem Solving** | Data Structures, Algorithms, Complexity Analysis, C++ STL |
 | **Frontend** | Angular, HTML5, CSS3 |
 | **Backend** | Node.js, Express.js, REST APIs |
 | **Database** | MongoDB, Mongoose |
 | **Authentication** | JWT, bcrypt, Role-Based Authorization |
 | **API Development** | Request Validation, Error Handling, Pagination, File Uploads |
+| **Fundamentals** | Data Structures, Algorithms, Complexity Analysis, C++ STL |
 | **Version Control** | Git, GitHub |
-
----
-
-## Competitive Programming
-
-**Codeforces Expert · Peak Rating: 1711**
-
-Competitive programming is an important part of my development as a software engineer. I use **C++** to solve algorithmic problems, evaluate time and space complexity, and translate ideas into efficient implementations.
-
-- Applying data structures and algorithms to problem solving.
-- Comparing approaches based on correctness and efficiency.
-- Handling edge cases and debugging under contest constraints.
-- Using the C++ Standard Template Library to implement solutions.
 
 ---
 
